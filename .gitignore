@@ -1,0 +1,7 @@
+.venv/
+.engine/
+vendor/
+data/
+__pycache__/
+.env
+install.log
